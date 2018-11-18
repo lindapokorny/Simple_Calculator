@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd7ebfc18d12e7adaf87ada07e74069b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3627cc523457ffa64fc9e32ed8708b83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6a4ccd0041c6cffaad710a67583c2617/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/22ad887d401b5d33c720e158391f99fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d90cbd9ad634d216646ac9da1264794a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/21c292fd07b7268736d6c8758925132b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9cfbe377d7c52e0d1d9eac8524e68454/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0e00296a27424bbc45255a3742941e78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/adc75b783fed5f5b135a7d4f83ce4f36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0656614f672389e069a92b87852df8f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ee023b7b48241826c214f8294ce94b4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd7ebfc18d12e7adaf87ada07e74069b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd7ebfc18d12e7adaf87ada07e74069b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3627cc523457ffa64fc9e32ed8708b83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3627cc523457ffa64fc9e32ed8708b83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6a4ccd0041c6cffaad710a67583c2617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6a4ccd0041c6cffaad710a67583c2617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/22ad887d401b5d33c720e158391f99fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/22ad887d401b5d33c720e158391f99fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d90cbd9ad634d216646ac9da1264794a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d90cbd9ad634d216646ac9da1264794a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/21c292fd07b7268736d6c8758925132b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/21c292fd07b7268736d6c8758925132b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9cfbe377d7c52e0d1d9eac8524e68454/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9cfbe377d7c52e0d1d9eac8524e68454/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0e00296a27424bbc45255a3742941e78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0e00296a27424bbc45255a3742941e78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/adc75b783fed5f5b135a7d4f83ce4f36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/adc75b783fed5f5b135a7d4f83ce4f36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0656614f672389e069a92b87852df8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0656614f672389e069a92b87852df8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ee023b7b48241826c214f8294ce94b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lindapokorny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ee023b7b48241826c214f8294ce94b4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lindapokorny/NewIdeaProjects/SimpleCalc/app/src/main/AndroidManifest.xml
